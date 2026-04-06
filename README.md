@@ -1,7 +1,7 @@
-⭐ **Customer Churn Analysis System**
+ **Customer Churn Analysis System**
 
 
-⭐ **Project Introduction**
+ **Project Introduction**
 
 
 Customer churn is a major issue faced by businesses like banking, telecom, and e-commerce.
@@ -10,7 +10,7 @@ High churn leads to loss of revenue and affects business growth.
 Companies collect large amounts of customer data, but manual analysis is difficult.
 Due to privacy concerns, real datasets are not always available.
 
-👉 **This project solves the problem by:
+ **This project solves the problem by:
 
 
 **
@@ -18,7 +18,7 @@ Creating synthetic customer data using Faker
 Performing data analysis to understand churn behavior
 
 
-⭐ **Project Objectives**
+ **Project Objectives**
 
 
 ★ Create a realistic synthetic dataset
@@ -31,14 +31,14 @@ Performing data analysis to understand churn behavior
 ★ Generate insights to reduce churn
 
 
-⭐ **Dataset Overview**
+ **Dataset Overview**
 
 
 Total Records: 100,000 customers
 Data generated using Faker library
 
 
-⭐ **Features in Dataset**
+ **Features in Dataset**
 
 
 Customer_ID → Unique ID
@@ -53,7 +53,7 @@ IsActiveMember → 0 (No), 1 (Yes)
 Churn → 0 (No), 1 (Yes)
 
 
-⭐ **Technologies Used**
+ **Technologies Used**
 
 
 ★ Python
@@ -64,10 +64,10 @@ Churn → 0 (No), 1 (Yes)
 ★ Faker
 
 
-⭐** Project Workflow**
+** Project Workflow**
 
 
-⭐ 1. **Data Generation**
+ 1. **Data Generation**
 
 
 Synthetic data created using Faker
@@ -75,7 +75,7 @@ Random values used to mimic real-world data
 Includes realistic distributions
 
 
-⭐ 2. **Data Cleaning & Preprocessing**
+ 2. **Data Cleaning & Preprocessing**
 
 
 Removed missing/null values
@@ -83,7 +83,7 @@ Checked and corrected data types
 Ensured dataset consistency
 
 
-⭐ 3. **Exploratory Data Analysis (EDA)**
+ 3. **Exploratory Data Analysis (EDA)**
 
 
 Calculated mean, median, standard deviation
@@ -91,7 +91,7 @@ Analyzed feature distributions
 Detected outliers
 
 
-⭐ 4. **Churn Analysis**
+ 4. **Churn Analysis**
 
 
 Compared churn vs non-churn customers
@@ -99,7 +99,7 @@ Identified high-risk customer groups
 Studied impact of features on churn
 
 
-⭐ 5. **Group Analysis**
+ 5. **Group Analysis**
 
 
 Age group vs churn
@@ -108,7 +108,7 @@ Active vs inactive customers
 Product usage vs churn
 
 
-⭐ 6. **Relationship Analysis**
+ 6. **Relationship Analysis**
 
 
 Balance vs churn
@@ -116,7 +116,7 @@ Credit score vs churn
 Tenure vs churn
 
 
-⭐ 7. **Data Visualization**
+ 7. **Data Visualization**
 
 
 ★ Bar charts
@@ -127,7 +127,7 @@ Tenure vs churn
 ★ Heatmap
 
 
-⭐ **Key Findings**
+ **Key Findings**
 
 
 ★ Low balance customers churn more
@@ -138,16 +138,16 @@ Tenure vs churn
 ★ Long-term customers are more loyal
 
 
-⭐** How to Run the Project**
+** How to Run the Project**
 
 
-⭐ Step 1: Install Libraries
+ Step 1: Install Libraries
 
 
 pip install pandas numpy matplotlib seaborn faker
 
 
-⭐ Step 2: Run the Project
+ Step 2: Run the Project
 
 
 Google Colab
@@ -155,7 +155,7 @@ Jupyter Notebook
 VS Code
 
 
-⭐ Project Structure
+ Project Structure
 
 
 Customer-Churn-Analysis/
@@ -166,7 +166,7 @@ Customer-Churn-Analysis/
 └── visualizations/
 
 
-⭐ Future Enhancements
+ Future Enhancements
 
 
 ★ Apply Machine Learning (Logistic Regression, Random Forest)
